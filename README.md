@@ -5,15 +5,14 @@ Code used to replicate data analyses in the manuscruipt Linking creatinine-to-bo
 - pandas
 - numpy 
 - scipy
-- statannot 
 - seaborn 
 - matplotlib
 - lifelines
 
 ## Structure
-```crebw_manuscript.ipynb```: code used for generate plots in Figs. 2-5.
+```crebw_manuscript.ipynb```: code used for generate plots in ```Figs. 2-5```.
 
-This code include analysis for:
+This code include visualization for:
 
 ```Fig. 2a-c```: Relationships between Cre/BW quartiles and diabetes incidence, further stratified by gender and ethnicity.
 
