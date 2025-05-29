@@ -1,5 +1,5 @@
 # Cre-BW_manuscript
-Code used to replicate data analyses in the manuscruipt Linking creatinine-to-body weight ratio with diabetes incidence: a multiethnic Malaysian study.
+Code used to replicate data analyses in the manuscruipt [Linking Creatinine-to-Body Weight Ratio With Diabetes Incidence: A Multiethnic Malaysian Cohort Study]( https://doi.org/10.1111/1753-0407.70039).
 
 ## Required Python packages
 - pandas
